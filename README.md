@@ -1,3 +1,3 @@
--> Groq
--> LLAMA 3.1
--> Chromadb
+-> Groq \n
+-> LLAMA 3.1 \n
+-> Chromadb \n
